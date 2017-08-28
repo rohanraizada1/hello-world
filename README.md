@@ -18,7 +18,7 @@ Build and run using Docker Compose:
 
 [Install the Docker Cloud CLI](https://docs.docker.com/docker-cloud/tutorials/installing-cli/)
 
-	$ docker login
+	$ docker login 
 	$ docker-cloud stack up
 
 Hello world!
